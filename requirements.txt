@@ -1,0 +1,10 @@
+
+pdfplumber
+pymupdf
+pandas
+numpy
+pillow
+pytesseract
+pdf2image
+camelot-py[cv]
+tabula-py
